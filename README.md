@@ -1,2 +1,2 @@
 # langChain-FAAFO
-Trying my hands on LangChain from, following tutorials
+My learnings on LabgChain, currently following tutorial from [LangChain Docs](https://python.langchain.com/docs/tutorials/)
